@@ -38,7 +38,7 @@
   text-align: center;
 }
 
-.a>div>a>img {
+.a>a>img {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -73,7 +73,7 @@
   text-align: center;
 }
 
-.b>img {
+.b>a>img {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -93,7 +93,7 @@
   text-align: center;
 }
 
-.c>img {
+.c>a>img {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -119,7 +119,7 @@
   height: 30px;
 }
 
-.d>img {
+.d>a>img {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -131,7 +131,7 @@
   text-align: center;
 }
 
-.e>img {
+.e>a>img {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -149,7 +149,7 @@
   text-align: center;
 }
 
-.f>img {
+.f>a>img {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -167,7 +167,7 @@
   text-align: center;
 }
 
-.g>img {
+.g>a>img {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -185,7 +185,7 @@
   text-align: center;
 }
 
-.h>img {
+.h>a>img {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -203,7 +203,7 @@
   text-align: center;
 }
 
-.i>img {
+.i>a>img {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -221,7 +221,7 @@
   text-align: center;
 }
 
-.j>img {
+.j>a>img {
   object-fit: cover;
   width: 100%;
   height: 100%;
